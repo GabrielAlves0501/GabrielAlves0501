@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-alves-a22a531a3/">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GabrielAlves0501&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlves0501&layout-compact&langs_count=16&theme=dark"/>
+  <img height="180cm" width="42%" src="https://github-readme-stats.vercel.app/api?username=GabrielAlves0501&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180cm" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlves0501&layout-compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,6 +22,5 @@
   <a href="https://www.instagram.com/biel_alves0508/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/gabriel-alves-a22a531a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielfernando0501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  ![snake gif](https://github.com/GabrielAlves0501/GabrielAlves0501/blob/output/github-contribution-grid-snake.svg)
 </div>
+ ![snake gif](https://github.com/GabrielAlves0501/GabrielAlves0501/blob/output/github-contribution-grid-snake.svg)
