@@ -1,6 +1,5 @@
 ### Hi, I'm Gabriel Alves!
 
-- 🔭 I’m currently working as an IT Analyst
 - 🌱 I’m currently learning JavaScript | HTML5 | CSS3
 
 <div>
